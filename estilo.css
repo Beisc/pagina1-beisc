@@ -1,0 +1,85 @@
+.caixa1 {
+    background-color: rgb(23, 189, 175);
+    border: 3px black solid;
+    padding: 20px;
+    padding-left: 260px;
+    margin: 40px;
+}
+
+#title {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.caixa2 {
+    background-color: rgb(127, 127, 207);
+    border: 2px black solid;
+    margin: 50px;
+    padding: 10px;
+}
+
+body {
+    background-image: url ('https://i.pinimg.com/originals/69/12/0f/69120f098bbad51079ed14884673b211.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+img.resize {
+    width:250px;
+    height:150px;
+    position: absolute;
+    top: 250px;
+    left: 650px;    
+}
+
+#parag2 {
+    position: fixed;
+    top: 365px;
+}
+
+img.resize2 {
+    width:250px;
+    height:150px;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+}
+
+img.resize3 {
+    width:250px;
+    height:150px;
+    position: absolute;
+    top: 500px;
+    left: 450px;
+}
+
+.caixa3 {
+    background-color: rgb(218, 216, 113);
+    border: 2px black solid;
+    margin: 50px;
+    padding: 10px;
+    width: 300px;
+}
+
+#parag3 {
+    position: fixed;
+    top: 500px;
+}
+
+#botao1 {
+    position: fixed;
+    top: 500px;
+    left: 790px;
+}
+
+#botao1 {
+    width: 190px;
+    height: 20px;
+}
+
+.caixabotao {
+    background-color: rgb(39, 146, 71);
+    border: 2px black solid;
+    margin: 50px;
+    padding: 10px;
+}
